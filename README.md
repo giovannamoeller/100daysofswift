@@ -1,6 +1,6 @@
 # 100 Days Of Swift
-O desafio consiste em estudar Swift pelo menos 1 hora por dia durante 100 dias.<br>
-Dentro da pasta, o arquivo de código é o "Contents.swift"
+This challenge is about studying and coding with Swift at least 1 hour per day during 100 days.
+The code is at "Content.swift".
 
 #### Day 1 - Variables, simple data types, and string interpolation
 
