@@ -1,4 +1,4 @@
-# 100daysofswift
+# 100 Days Of Swift
 O desafio consiste em estudar Swift pelo menos 1 hora por dia durante 100 dias.<br>
 Dentro da pasta, o arquivo de código é o "Contents.swift"
 
