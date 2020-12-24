@@ -7,3 +7,5 @@ The code is at "Contents.swift".
 #### Day 2 - Arrays, dictionaries, sets and enums
 
 #### Day 3 - Operators and conditions
+
+#### Day 4 - Loops, loops, and more loops
