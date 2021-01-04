@@ -12,3 +12,4 @@ The code is at "Contents.swift".
 
 #### Day 5 - Functions, parameters and errors
 
+#### Day 6 - Closures, part one
