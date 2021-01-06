@@ -15,3 +15,5 @@ The code is at "Contents.swift".
 #### Day 6 - Closures, part one
 
 #### Day 7 - Closures, part two
+
+### Day 8 - Structs, properties, and methods
